@@ -105,7 +105,8 @@ quarter,series,category,subcategory,value,unit
 2025-Q2,exploration,Copper,,122.6,A$m
 2025-Q3,exploration,Copper,,116.6,A$m
 2025-Q4,exploration,Copper,,117.1,A$m
-2026-Q1,exploration,Copper,,98.5,A$m
+2026-Q1,exploration,Copper,,96.2,A$m
+2026-Q2,exploration,Copper,,124.3,A$m
 1990-Q1,exploration,Total metals and other minerals,,119.6,A$m
 1990-Q2,exploration,Total metals and other minerals,,150.6,A$m
 1990-Q3,exploration,Total metals and other minerals,,131.3,A$m
@@ -249,7 +250,8 @@ quarter,series,category,subcategory,value,unit
 2025-Q2,exploration,Total metals and other minerals,,937.7,A$m
 2025-Q3,exploration,Total metals and other minerals,,982.9,A$m
 2025-Q4,exploration,Total metals and other minerals,,981.6,A$m
-2026-Q1,exploration,Total metals and other minerals,,899.4,A$m
+2026-Q1,exploration,Total metals and other minerals,,903.8,A$m
+2026-Q2,exploration,Total metals and other minerals,,1114.8,A$m
 1990-Q1,exports_quantity,All forms,Copper content,56.6885,kt
 1990-Q2,exports_quantity,All forms,Copper content,57.9286,kt
 1990-Q3,exports_quantity,All forms,Copper content,56.8098,kt
@@ -393,8 +395,9 @@ quarter,series,category,subcategory,value,unit
 2025-Q1,exports_quantity,All forms,Copper content,149.7318,kt
 2025-Q2,exports_quantity,All forms,Copper content,217.9495,kt
 2025-Q3,exports_quantity,All forms,Copper content,199.2976,kt
-2025-Q4,exports_quantity,All forms,Copper content,184.518,kt
-2026-Q1,exports_quantity,All forms,Copper content,151.751,kt
+2025-Q4,exports_quantity,All forms,Copper content,185.9806,kt
+2026-Q1,exports_quantity,All forms,Copper content,151.6077,kt
+2026-Q2,exports_quantity,All forms,Copper content,145.4631,kt
 1990-Q1,exports_quantity,Ores and concentrates,China,0,kt gross
 1990-Q2,exports_quantity,Ores and concentrates,China,0,kt gross
 1990-Q3,exports_quantity,Ores and concentrates,China,0,kt gross
@@ -540,6 +543,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,exports_quantity,Ores and concentrates,China,217.6848,kt gross
 2025-Q4,exports_quantity,Ores and concentrates,China,161.6567,kt gross
 2026-Q1,exports_quantity,Ores and concentrates,China,163.618,kt gross
+2026-Q2,exports_quantity,Ores and concentrates,China,114.022,kt gross
 1990-Q1,exports_quantity,Ores and concentrates,India,0,kt gross
 1990-Q2,exports_quantity,Ores and concentrates,India,0,kt gross
 1990-Q3,exports_quantity,Ores and concentrates,India,0,kt gross
@@ -685,6 +689,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,exports_quantity,Ores and concentrates,India,34.411,kt gross
 2025-Q4,exports_quantity,Ores and concentrates,India,52.6131,kt gross
 2026-Q1,exports_quantity,Ores and concentrates,India,39.1859,kt gross
+2026-Q2,exports_quantity,Ores and concentrates,India,40.728,kt gross
 1990-Q1,exports_quantity,Ores and concentrates,Japan,34.378,kt gross
 1990-Q2,exports_quantity,Ores and concentrates,Japan,51.016,kt gross
 1990-Q3,exports_quantity,Ores and concentrates,Japan,75.146,kt gross
@@ -828,8 +833,9 @@ quarter,series,category,subcategory,value,unit
 2025-Q1,exports_quantity,Ores and concentrates,Japan,79.4819,kt gross
 2025-Q2,exports_quantity,Ores and concentrates,Japan,67.5528,kt gross
 2025-Q3,exports_quantity,Ores and concentrates,Japan,48.1534,kt gross
-2025-Q4,exports_quantity,Ores and concentrates,Japan,68.5135,kt gross
-2026-Q1,exports_quantity,Ores and concentrates,Japan,55.027,kt gross
+2025-Q4,exports_quantity,Ores and concentrates,Japan,74.6722,kt gross
+2026-Q1,exports_quantity,Ores and concentrates,Japan,55.4239,kt gross
+2026-Q2,exports_quantity,Ores and concentrates,Japan,84.1641,kt gross
 1990-Q1,exports_quantity,Ores and concentrates,Philippines,11.021,kt gross
 1990-Q2,exports_quantity,Ores and concentrates,Philippines,0,kt gross
 1990-Q3,exports_quantity,Ores and concentrates,Philippines,0,kt gross
@@ -975,6 +981,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,exports_quantity,Ores and concentrates,Philippines,0,kt gross
 2025-Q4,exports_quantity,Ores and concentrates,Philippines,0,kt gross
 2026-Q1,exports_quantity,Ores and concentrates,Philippines,0,kt gross
+2026-Q2,exports_quantity,Ores and concentrates,Philippines,0,kt gross
 1990-Q1,exports_quantity,Ores and concentrates,South Korea,0.02,kt gross
 1990-Q2,exports_quantity,Ores and concentrates,South Korea,0,kt gross
 1990-Q3,exports_quantity,Ores and concentrates,South Korea,0,kt gross
@@ -1119,7 +1126,8 @@ quarter,series,category,subcategory,value,unit
 2025-Q2,exports_quantity,Ores and concentrates,South Korea,9.0868,kt gross
 2025-Q3,exports_quantity,Ores and concentrates,South Korea,18.2484,kt gross
 2025-Q4,exports_quantity,Ores and concentrates,South Korea,10.0539,kt gross
-2026-Q1,exports_quantity,Ores and concentrates,South Korea,33,kt gross
+2026-Q1,exports_quantity,Ores and concentrates,South Korea,31.9687,kt gross
+2026-Q2,exports_quantity,Ores and concentrates,South Korea,10.5,kt gross
 1990-Q1,exports_quantity,Ores and concentrates,Total,46.766,kt gross
 1990-Q2,exports_quantity,Ores and concentrates,Total,52.787,kt gross
 1990-Q3,exports_quantity,Ores and concentrates,Total,75.509,kt gross
@@ -1263,8 +1271,9 @@ quarter,series,category,subcategory,value,unit
 2025-Q1,exports_quantity,Ores and concentrates,Total,251.8503,kt gross
 2025-Q2,exports_quantity,Ores and concentrates,Total,336.5338,kt gross
 2025-Q3,exports_quantity,Ores and concentrates,Total,318.6434,kt gross
-2025-Q4,exports_quantity,Ores and concentrates,Total,296.2976,kt gross
-2026-Q1,exports_quantity,Ores and concentrates,Total,303.924,kt gross
+2025-Q4,exports_quantity,Ores and concentrates,Total,302.4739,kt gross
+2026-Q1,exports_quantity,Ores and concentrates,Total,303.2807,kt gross
+2026-Q2,exports_quantity,Ores and concentrates,Total,276.1599,kt gross
 1990-Q1,exports_quantity,Refined,China,0,kt
 1990-Q2,exports_quantity,Refined,China,0,kt
 1990-Q3,exports_quantity,Refined,China,0,kt
@@ -1410,6 +1419,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,exports_quantity,Refined,China,18.2574,kt
 2025-Q4,exports_quantity,Refined,China,14.3984,kt
 2026-Q1,exports_quantity,Refined,China,18.5,kt
+2026-Q2,exports_quantity,Refined,China,27,kt
 1990-Q1,exports_quantity,Refined,Germany,9.34,kt
 1990-Q2,exports_quantity,Refined,Germany,6.29,kt
 1990-Q3,exports_quantity,Refined,Germany,8.814,kt
@@ -1555,6 +1565,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,exports_quantity,Refined,Germany,0,kt
 2025-Q4,exports_quantity,Refined,Germany,0,kt
 2026-Q1,exports_quantity,Refined,Germany,0,kt
+2026-Q2,exports_quantity,Refined,Germany,0,kt
 1990-Q1,exports_quantity,Refined,Indonesia,0,kt
 1990-Q2,exports_quantity,Refined,Indonesia,0,kt
 1990-Q3,exports_quantity,Refined,Indonesia,0,kt
@@ -1698,8 +1709,9 @@ quarter,series,category,subcategory,value,unit
 2025-Q1,exports_quantity,Refined,Indonesia,7.555,kt
 2025-Q2,exports_quantity,Refined,Indonesia,9.3052,kt
 2025-Q3,exports_quantity,Refined,Indonesia,11.6899,kt
-2025-Q4,exports_quantity,Refined,Indonesia,13.1287,kt
-2026-Q1,exports_quantity,Refined,Indonesia,6.6504,kt
+2025-Q4,exports_quantity,Refined,Indonesia,13.1293,kt
+2026-Q1,exports_quantity,Refined,Indonesia,6.9518,kt
+2026-Q2,exports_quantity,Refined,Indonesia,8.3026,kt
 1990-Q1,exports_quantity,Refined,Japan,11.643,kt
 1990-Q2,exports_quantity,Refined,Japan,13.322,kt
 1990-Q3,exports_quantity,Refined,Japan,8.265,kt
@@ -1845,6 +1857,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,exports_quantity,Refined,Japan,0,kt
 2025-Q4,exports_quantity,Refined,Japan,0,kt
 2026-Q1,exports_quantity,Refined,Japan,0,kt
+2026-Q2,exports_quantity,Refined,Japan,0.2,kt
 1990-Q1,exports_quantity,Refined,Malaysia,0,kt
 1990-Q2,exports_quantity,Refined,Malaysia,0,kt
 1990-Q3,exports_quantity,Refined,Malaysia,0,kt
@@ -1988,8 +2001,9 @@ quarter,series,category,subcategory,value,unit
 2025-Q1,exports_quantity,Refined,Malaysia,19.9783,kt
 2025-Q2,exports_quantity,Refined,Malaysia,22.8501,kt
 2025-Q3,exports_quantity,Refined,Malaysia,23.0223,kt
-2025-Q4,exports_quantity,Refined,Malaysia,16.7666,kt
-2026-Q1,exports_quantity,Refined,Malaysia,12.2396,kt
+2025-Q4,exports_quantity,Refined,Malaysia,16.7662,kt
+2026-Q1,exports_quantity,Refined,Malaysia,12.0396,kt
+2026-Q2,exports_quantity,Refined,Malaysia,11.9256,kt
 1990-Q1,exports_quantity,Refined,Singapore,0.262,kt
 1990-Q2,exports_quantity,Refined,Singapore,0,kt
 1990-Q3,exports_quantity,Refined,Singapore,0,kt
@@ -2135,6 +2149,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,exports_quantity,Refined,Singapore,0,kt
 2025-Q4,exports_quantity,Refined,Singapore,0,kt
 2026-Q1,exports_quantity,Refined,Singapore,0,kt
+2026-Q2,exports_quantity,Refined,Singapore,0,kt
 1990-Q1,exports_quantity,Refined,South Korea,0.24,kt
 1990-Q2,exports_quantity,Refined,South Korea,1.354,kt
 1990-Q3,exports_quantity,Refined,South Korea,0.537,kt
@@ -2278,8 +2293,9 @@ quarter,series,category,subcategory,value,unit
 2025-Q1,exports_quantity,Refined,South Korea,2.2058,kt
 2025-Q2,exports_quantity,Refined,South Korea,4.8939,kt
 2025-Q3,exports_quantity,Refined,South Korea,8.1018,kt
-2025-Q4,exports_quantity,Refined,South Korea,3.0511,kt
+2025-Q4,exports_quantity,Refined,South Korea,3.0288,kt
 2026-Q1,exports_quantity,Refined,South Korea,2.6037,kt
+2026-Q2,exports_quantity,Refined,South Korea,2.4208,kt
 1990-Q1,exports_quantity,Refined,Taiwan,0.71,kt
 1990-Q2,exports_quantity,Refined,Taiwan,0.098,kt
 1990-Q3,exports_quantity,Refined,Taiwan,0,kt
@@ -2423,8 +2439,9 @@ quarter,series,category,subcategory,value,unit
 2025-Q1,exports_quantity,Refined,Taiwan,15.4425,kt
 2025-Q2,exports_quantity,Refined,Taiwan,16.7789,kt
 2025-Q3,exports_quantity,Refined,Taiwan,11.3308,kt
-2025-Q4,exports_quantity,Refined,Taiwan,14.2081,kt
+2025-Q4,exports_quantity,Refined,Taiwan,14.1998,kt
 2026-Q1,exports_quantity,Refined,Taiwan,6.1,kt
+2026-Q2,exports_quantity,Refined,Taiwan,1.9,kt
 1990-Q1,exports_quantity,Refined,Thailand,0,kt
 1990-Q2,exports_quantity,Refined,Thailand,0,kt
 1990-Q3,exports_quantity,Refined,Thailand,0,kt
@@ -2569,7 +2586,8 @@ quarter,series,category,subcategory,value,unit
 2025-Q2,exports_quantity,Refined,Thailand,13.6003,kt
 2025-Q3,exports_quantity,Refined,Thailand,10.2749,kt
 2025-Q4,exports_quantity,Refined,Thailand,7.625,kt
-2026-Q1,exports_quantity,Refined,Thailand,7.3253,kt
+2026-Q1,exports_quantity,Refined,Thailand,7.2239,kt
+2026-Q2,exports_quantity,Refined,Thailand,5.2244,kt
 1990-Q1,exports_quantity,Refined,Total,41.762,kt
 1990-Q2,exports_quantity,Refined,Total,35.383,kt
 1990-Q3,exports_quantity,Refined,Total,33.194,kt
@@ -2713,8 +2731,9 @@ quarter,series,category,subcategory,value,unit
 2025-Q1,exports_quantity,Refined,Total,82.0126,kt
 2025-Q2,exports_quantity,Refined,Total,120.6611,kt
 2025-Q3,exports_quantity,Refined,Total,112.5566,kt
-2025-Q4,exports_quantity,Refined,Total,99.6121,kt
-2026-Q1,exports_quantity,Refined,Total,71.0709,kt
+2025-Q4,exports_quantity,Refined,Total,99.5859,kt
+2026-Q1,exports_quantity,Refined,Total,71.0762,kt
+2026-Q2,exports_quantity,Refined,Total,62.1289,kt
 1990-Q1,exports_quantity,Refined,Vietnam,0,kt
 1990-Q2,exports_quantity,Refined,Vietnam,0,kt
 1990-Q3,exports_quantity,Refined,Vietnam,0,kt
@@ -2859,7 +2878,8 @@ quarter,series,category,subcategory,value,unit
 2025-Q2,exports_quantity,Refined,Vietnam,8.8294,kt
 2025-Q3,exports_quantity,Refined,Vietnam,5.4516,kt
 2025-Q4,exports_quantity,Refined,Vietnam,4.6767,kt
-2026-Q1,exports_quantity,Refined,Vietnam,6.4009,kt
+2026-Q1,exports_quantity,Refined,Vietnam,6.4005,kt
+2026-Q2,exports_quantity,Refined,Vietnam,4.6221,kt
 1990-Q1,exports_value,Ores and concentrates,,70.025,A$m
 1990-Q2,exports_value,Ores and concentrates,,53.905,A$m
 1990-Q3,exports_value,Ores and concentrates,,70.246,A$m
@@ -3003,8 +3023,9 @@ quarter,series,category,subcategory,value,unit
 2025-Q1,exports_value,Ores and concentrates,,1505.182,A$m
 2025-Q2,exports_value,Ores and concentrates,,1930.598,A$m
 2025-Q3,exports_value,Ores and concentrates,,1736.704,A$m
-2025-Q4,exports_value,Ores and concentrates,,1899.036,A$m
-2026-Q1,exports_value,Ores and concentrates,,1853.899,A$m
+2025-Q4,exports_value,Ores and concentrates,,2097.436,A$m
+2026-Q1,exports_value,Ores and concentrates,,1916.259,A$m
+2026-Q2,exports_value,Ores and concentrates,,1880.924,A$m
 1990-Q1,exports_value,Refined,,136.608,A$m
 1990-Q2,exports_value,Refined,,125.38,A$m
 1990-Q3,exports_value,Refined,,114.748,A$m
@@ -3148,8 +3169,9 @@ quarter,series,category,subcategory,value,unit
 2025-Q1,exports_value,Refined,,1148.579,A$m
 2025-Q2,exports_value,Refined,,1723.741,A$m
 2025-Q3,exports_value,Refined,,1644.382,A$m
-2025-Q4,exports_value,Refined,,1558.431,A$m
-2026-Q1,exports_value,Refined,,1315.604,A$m
+2025-Q4,exports_value,Refined,,1596.335,A$m
+2026-Q1,exports_value,Refined,,1301.448,A$m
+2026-Q2,exports_value,Refined,,1141.201,A$m
 1990-Q1,exports_value,Total,,206.633,A$m
 1990-Q2,exports_value,Total,,179.285,A$m
 1990-Q3,exports_value,Total,,184.994,A$m
@@ -3293,8 +3315,9 @@ quarter,series,category,subcategory,value,unit
 2025-Q1,exports_value,Total,,2653.761,A$m
 2025-Q2,exports_value,Total,,3654.339,A$m
 2025-Q3,exports_value,Total,,3381.086,A$m
-2025-Q4,exports_value,Total,,3457.467,A$m
-2026-Q1,exports_value,Total,,3169.503,A$m
+2025-Q4,exports_value,Total,,3693.771,A$m
+2026-Q1,exports_value,Total,,3217.707,A$m
+2026-Q2,exports_value,Total,,3022.125,A$m
 1991-Q1,mine_production,gross weight,Copper ore and concentrates,251.6263,kt gross
 1991-Q2,mine_production,gross weight,Copper ore and concentrates,256.6753,kt gross
 1992-Q2,mine_production,gross weight,Copper ore and concentrates,264.5063,kt gross
@@ -3425,14 +3448,15 @@ quarter,series,category,subcategory,value,unit
 2023-Q3,mine_production,gross weight,Copper ore and concentrates,765.6919,kt gross
 2023-Q4,mine_production,gross weight,Copper ore and concentrates,791.4129,kt gross
 2024-Q1,mine_production,gross weight,Copper ore and concentrates,764.1269,kt gross
-2024-Q2,mine_production,gross weight,Copper ore and concentrates,815.3243,kt gross
-2024-Q3,mine_production,gross weight,Copper ore and concentrates,735.6884,kt gross
-2024-Q4,mine_production,gross weight,Copper ore and concentrates,748.6681,kt gross
+2024-Q2,mine_production,gross weight,Copper ore and concentrates,807.8625,kt gross
+2024-Q3,mine_production,gross weight,Copper ore and concentrates,719.7634,kt gross
+2024-Q4,mine_production,gross weight,Copper ore and concentrates,731.984,kt gross
 2025-Q1,mine_production,gross weight,Copper ore and concentrates,751.2407,kt gross
-2025-Q2,mine_production,gross weight,Copper ore and concentrates,748.1259,kt gross
-2025-Q3,mine_production,gross weight,Copper ore and concentrates,739.4535,kt gross
-2025-Q4,mine_production,gross weight,Copper ore and concentrates,685.5926,kt gross
-2026-Q1,mine_production,gross weight,Copper ore and concentrates,668.9895,kt gross
+2025-Q2,mine_production,gross weight,Copper ore and concentrates,762,kt gross
+2025-Q3,mine_production,gross weight,Copper ore and concentrates,791,kt gross
+2025-Q4,mine_production,gross weight,Copper ore and concentrates,726,kt gross
+2026-Q1,mine_production,gross weight,Copper ore and concentrates,694,kt gross
+2026-Q2,mine_production,gross weight,Copper ore and concentrates,641,kt gross
 1990-Q1,mine_production,national,Australia,71.3522,kt
 1990-Q2,mine_production,national,Australia,84.6863,kt
 1990-Q3,mine_production,national,Australia,92.6623,kt
@@ -3572,12 +3596,13 @@ quarter,series,category,subcategory,value,unit
 2024-Q1,mine_production,national,Australia,188.922,kt
 2024-Q2,mine_production,national,Australia,201.848,kt
 2024-Q3,mine_production,national,Australia,180.788,kt
-2024-Q4,mine_production,national,Australia,176.3,kt
+2024-Q4,mine_production,national,Australia,176.282,kt
 2025-Q1,mine_production,national,Australia,171.791,kt
 2025-Q2,mine_production,national,Australia,190.862,kt
 2025-Q3,mine_production,national,Australia,188.6495,kt
 2025-Q4,mine_production,national,Australia,174.9085,kt
-2026-Q1,mine_production,national,Australia,158,kt
+2026-Q1,mine_production,national,Australia,160,kt
+2026-Q2,mine_production,national,Australia,164,kt
 1990-Q1,mine_production,residual,Not attributed to a state,3.2582,kt
 1990-Q2,mine_production,residual,Not attributed to a state,3.2583,kt
 1990-Q3,mine_production,residual,Not attributed to a state,0.5573,kt
@@ -3723,6 +3748,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,mine_production,residual,Not attributed to a state,0.0,kt
 2025-Q4,mine_production,residual,Not attributed to a state,0.0,kt
 2026-Q1,mine_production,residual,Not attributed to a state,-0.323,kt
+2026-Q2,mine_production,residual,Not attributed to a state,1.742,kt
 1990-Q1,mine_production,state,New South Wales,5.547,kt
 1990-Q2,mine_production,state,New South Wales,8.885,kt
 1990-Q3,mine_production,state,New South Wales,9.259,kt
@@ -3868,6 +3894,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,mine_production,state,New South Wales,51.5615,kt
 2025-Q4,mine_production,state,New South Wales,46.5365,kt
 2026-Q1,mine_production,state,New South Wales,48,kt
+2026-Q2,mine_production,state,New South Wales,37,kt
 1990-Q1,mine_production,state,Queensland,46.643,kt
 1990-Q2,mine_production,state,Queensland,52.473,kt
 1990-Q3,mine_production,state,Queensland,61.097,kt
@@ -4007,12 +4034,13 @@ quarter,series,category,subcategory,value,unit
 2024-Q1,mine_production,state,Queensland,35.932,kt
 2024-Q2,mine_production,state,Queensland,33.733,kt
 2024-Q3,mine_production,state,Queensland,37.191,kt
-2024-Q4,mine_production,state,Queensland,38.64,kt
+2024-Q4,mine_production,state,Queensland,38.622,kt
 2025-Q1,mine_production,state,Queensland,28.866,kt
 2025-Q2,mine_production,state,Queensland,28.35,kt
 2025-Q3,mine_production,state,Queensland,39.145,kt
 2025-Q4,mine_production,state,Queensland,31.127,kt
 2026-Q1,mine_production,state,Queensland,9,kt
+2026-Q2,mine_production,state,Queensland,16,kt
 1990-Q1,mine_production,state,South Australia,9.026,kt
 1990-Q2,mine_production,state,South Australia,10.311,kt
 1990-Q3,mine_production,state,South Australia,11.108,kt
@@ -4158,6 +4186,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,mine_production,state,South Australia,81.008,kt
 2025-Q4,mine_production,state,South Australia,80.662,kt
 2026-Q1,mine_production,state,South Australia,87,kt
+2026-Q2,mine_production,state,South Australia,94,kt
 1990-Q1,mine_production,state,Tasmania,5.098,kt
 1990-Q2,mine_production,state,Tasmania,5.554,kt
 1990-Q3,mine_production,state,Tasmania,6.135,kt
@@ -4303,6 +4332,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,mine_production,state,Tasmania,0.277,kt
 2025-Q4,mine_production,state,Tasmania,0.323,kt
 2026-Q1,mine_production,state,Tasmania,0.323,kt
+2026-Q2,mine_production,state,Tasmania,0.323,kt
 1990-Q1,mine_production,state,Western Australia,1.78,kt
 1990-Q2,mine_production,state,Western Australia,4.205,kt
 1990-Q3,mine_production,state,Western Australia,4.506,kt
@@ -4447,7 +4477,8 @@ quarter,series,category,subcategory,value,unit
 2025-Q2,mine_production,state,Western Australia,18.788,kt
 2025-Q3,mine_production,state,Western Australia,16.658,kt
 2025-Q4,mine_production,state,Western Australia,16.26,kt
-2026-Q1,mine_production,state,Western Australia,14,kt
+2026-Q1,mine_production,state,Western Australia,16,kt
+2026-Q2,mine_production,state,Western Australia,14.935,kt
 1990-Q1,price,Australia,,3188.546,A$/t
 1990-Q2,price,Australia,,3473.67,A$/t
 1990-Q3,price,Australia,,3604.351,A$/t
@@ -4593,6 +4624,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,price,Australia,,14968.062,A$/t
 2025-Q4,price,Australia,,16903.537,A$/t
 2026-Q1,price,Australia,,18487.944,A$/t
+2026-Q2,price,Australia,,18773.785,A$/t
 1990-Q1,price,LME cash,,2448.533,US$/t
 1990-Q2,price,LME cash,,2671.733,US$/t
 1990-Q3,price,LME cash,,2914.7,US$/t
@@ -4738,6 +4770,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,price,LME cash,,9792.265,US$/t
 2025-Q4,price,LME cash,,11100.194,US$/t
 2026-Q1,price,LME cash,,12851.894,US$/t
+2026-Q2,price,LME cash,,13324.275,US$/t
 1990-Q1,processed,smelter and refinery,Blister (primary),56.2,kt
 1990-Q2,processed,smelter and refinery,Blister (primary),61,kt
 1990-Q3,processed,smelter and refinery,Blister (primary),60.2,kt
@@ -4883,6 +4916,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,processed,smelter and refinery,Blister (primary),112.1,kt
 2025-Q4,processed,smelter and refinery,Blister (primary),101.4,kt
 2026-Q1,processed,smelter and refinery,Blister (primary),67,kt
+2026-Q2,processed,smelter and refinery,Blister (primary),70,kt
 1990-Q1,processed,smelter and refinery,Refined (primary),63.31,kt
 1990-Q2,processed,smelter and refinery,Refined (primary),65.954,kt
 1990-Q3,processed,smelter and refinery,Refined (primary),63.816,kt
@@ -5028,3 +5062,4 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,processed,smelter and refinery,Refined (primary),118.791,kt
 2025-Q4,processed,smelter and refinery,Refined (primary),108.434,kt
 2026-Q1,processed,smelter and refinery,Refined (primary),73,kt
+2026-Q2,processed,smelter and refinery,Refined (primary),76,kt
